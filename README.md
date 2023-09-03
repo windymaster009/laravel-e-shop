@@ -1,4 +1,4 @@
-"# laravel-e-shop" 
+"# laravel-e-shop" /n
 ================ Set up ================
 1. Clone the repo and cd into it
 2. In your terminal [composer install]
